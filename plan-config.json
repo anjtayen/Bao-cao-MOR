@@ -1,0 +1,15 @@
+{
+ "name": "Plan MOR.xlsx",
+ "sheet": "List GO ship MX",
+ "headerRow": 0,
+ "map": {
+  "patron": 2,
+  "delivery": 7,
+  "qty": 8,
+  "order": 3,
+  "brand": null,
+  "productType": null,
+  "mainFr": null
+ },
+ "updatedAt": 1795171824231
+}
